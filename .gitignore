@@ -1,0 +1,6 @@
+data
+brats_processed
+.ipynb_checkpoints
+logs/*
+wandb
+*__pycache__*
